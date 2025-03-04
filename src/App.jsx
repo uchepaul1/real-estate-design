@@ -1,4 +1,4 @@
-import HomePage from "./pages/homepage/HomePage";
+import HomePage from "./pages/homePage/homePage";
 import {
   createBrowserRouter,
   RouterProvider,
